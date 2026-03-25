@@ -23,6 +23,7 @@
   float: left;
   position: relative;
   right: 50%;
+  display: block;
 }
 
 #navbar-container ul li a {
